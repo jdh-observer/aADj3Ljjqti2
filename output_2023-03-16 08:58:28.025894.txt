@@ -1,0 +1,38 @@
+notebook_path: articleMaine.ipynb
+CHECK RESSOURCES
+ file script/maine-corpus.csv is not called
+ file script/France.csv is not called
+ file script/Figure 3.csv is not called
+ file script/Figure 2.csv is not called
+ file script/Figure 5.csv is not called
+ file script/Figure 4.csv is not called
+ file media/.DS_Store is not called
+CHECK URL
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/corpus.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17bIAqzZ42bUsQq3Y_z-XtAQIBPFgqzE9U4vpjWiVRNs/edit?usp=sharing' is valid: True
+URL: https://docs.google.com/spreadsheets/d/17bIAqzZ42bUsQq3Y_z-XtAQIBPFgqzE9U4vpjWiVRNs/edit?usp=sharing is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Figure%202.csv is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Finland.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17SD4yXDiN1OSc-WQcrp8seD9PlPTpTXh/edit?usp=sharing&ouid=117537917826352408873&rtpof=true&sd=true is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Germany.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17SD4yXDiN1OSc-WQcrp8seD9PlPTpTXh/edit?usp=sharing&ouid=117537917826352408873&rtpof=true&sd=true is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Mexico.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17SD4yXDiN1OSc-WQcrp8seD9PlPTpTXh/edit?usp=sharing&ouid=117537917826352408873&rtpof=true&sd=true is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Netherlands.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17SD4yXDiN1OSc-WQcrp8seD9PlPTpTXh/edit?usp=sharing&ouid=117537917826352408873&rtpof=true&sd=true is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Spain.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17SD4yXDiN1OSc-WQcrp8seD9PlPTpTXh/edit?usp=sharing&ouid=117537917826352408873&rtpof=true&sd=true is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/UK.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17SD4yXDiN1OSc-WQcrp8seD9PlPTpTXh/edit?usp=sharing&ouid=117537917826352408873&rtpof=true&sd=true is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/USA.csv is valid: True
+URL: https://docs.google.com/spreadsheets/d/17SD4yXDiN1OSc-WQcrp8seD9PlPTpTXh/edit?usp=sharing&ouid=117537917826352408873&rtpof=true&sd=true is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/USSMaine_fig1.csv is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/USSMaine_fig4.csv is valid: True
+URL: https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/USSMaine_fig5.csv is valid: True
+URL: https://chroniclingamerica.loc.gov/data/batches/in_bradlaugh_ver02/data/sn82015679/0041566574A/1898021801/0483.pdf' is valid: False
+URL: https://resolver.kb.nl/resolve?urn=ddd:010177239:mpeg21:pdf' is valid: False
+URL: https://hndm.iib.unam.mx/consulta/resultados/visualizar/558a33207d1ed64f16908db9?resultado=14&tipo=pagina&intPagina=1&palabras=Maine is valid: True
+CHECK HTML
+found in the cell: >En la cuestión con los Estados Unidos, ya se sabe: Turno par: (el de ayer. Véanse EL Imparcial, etc.) <Todo va perfectamente. El Gobierno de Washington y la prensa sensata han convencido á las gentes de allá a un accidente casual. No irán más buques norteamericanos á Cuba. Para investigar las causas de la catástrofe, procederán de acuerdo las comisiones española y americana. Se debe confiar en que todo termine satisfactoriamente.> Turno impar: (el de hoy. Véanse los susodichos periódicos) <El espíritu más belicoso domina entre los yankees. La idea de que lo del Maine fue intencionado cunde entre las masas. La convicción general es que viene la guerra. El Gobierno de Washington prepara más buques y dispone tropas. Se aproximan graves sucesos.> 
+found in the cell: >“On the question with the United States, it is already known: One day: (yesterday's. See El Impartial, etc.) <Everything is going perfectly. The Government of Washington and the sensible press have convinced the people there to a chance accident. No more American ships will go to Cuba. To investigate the causes of the catastrophe, the Spanish and American commissions will proceed in agreement. It must be trusted that everything ends satisfactorily.> The odd day: (Today's. See the aforementioned newspapers) <The most bellicose spirit dominates among the Yankees. The idea that the *Maine* thing was intentional is spreading among the masses. The general conviction is that war is coming. The Government of Washington prepares more ships and has troops. Serious events are coming.>” (google.translate)
+found in the cell: <div class="cite2c-biblio"></div>
