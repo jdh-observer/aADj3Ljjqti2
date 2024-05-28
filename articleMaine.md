@@ -18,15 +18,18 @@ jupyter:
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### Adán Lerma-Mayer
+### Adán Lerma-Mayer [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-8420-2958)
+Universidad Nacional Autónoma de México
 <!-- #endregion -->
 
 <!-- #region heading_collapsed=true tags=["contributor"] -->
-### Ernesto Priani
+### Ernesto Priani [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-2908-0457)
+Universidad Nacional Autónoma de México
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### Marc Priewe
+### Marc Priewe [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0956-2873)
+University of Stuttgart
 <!-- #endregion -->
 
 <!-- #region tags=["title"] -->
