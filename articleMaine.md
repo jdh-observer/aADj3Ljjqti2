@@ -6,7 +6,7 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.16.1
+      jupytext_version: 1.14.4
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
@@ -18,15 +18,15 @@ jupyter:
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### anonym
+### Adán Lerma-Mayer
 <!-- #endregion -->
 
 <!-- #region heading_collapsed=true tags=["contributor"] -->
-### anonym
+### Ernesto Priani
 <!-- #endregion -->
 
-<!-- #region heading_collapsed=true tags=["contributor"] -->
-### anonym
+<!-- #region tags=["contributor"] -->
+### Marc Priewe
 <!-- #endregion -->
 
 <!-- #region tags=["title"] -->
@@ -368,7 +368,7 @@ Newspapers from the United States often referenced politicians (17.3%), military
 After the loss of the *Maine*, the American public (or at least the press) was so anxious to learn more about Sigsbee's opinion on the cause of the explosion that rumors spread widely and quickly. One news item that repeatedly appeared in our data set is that Sigsbee sent a secret telegram to the Secretary of the Navy in which he blamed a torpedo, based on the observation of an eight-inch hole in the wreck of the *Maine*. The New York yellow press "published a cablegram allegedly sent by Captain Sigsbee to the Secretary of the navy in which the commander stated that he knew the explosion was not an accident. Supposedly, the assistant secretary of the navy, Theodore Roosevelt, concurred with Sigsbee's conclusions. There was only one problem with the story: the communication was a fabrication" (<cite data-cite="6095605/6DQ7MKZ3"></cite>, 148, cf. <cite data-cite="6095605/P97L8XTZ"></cite>, 65). We were able to trace this "fake news" in the press by checking and counting the contexts in which the words "Sigsbee" and "opinion" occur in our corpus. Some papers printed the fabricated "attack telegram" by the Captain of the *Maine* as news, whereas others marked it as a rumor. Our data show that the fabricated Sigsbee telegram circulated almost exclusively in the United States, constituting about 20% of the articles that mention "Sigsbee" and "opinion."
 
 
-  
+
  Journalists and the public, in general, reacted to the sinking of the armored cruiser in Havana harbor with a relatively clear sense that this event could lead to war between the United States and Spain, depending on the cause of the explosion. As has been well-documented, the yellow press reacted in horror and disgust in the morning editions on February 16, 1898. Next to an illustration of an exploding battleship anchored over a mine in Havana harbor, Hearst's *Journal* reported: "The Warship *Maine* was Split in Two by an Enemy's Infernal Machine," leaving no room for the possibility of an accident on board the ship. Ivan Musicant and other historians and commentators have assumed that an inflammatory press picked up the battle cry "Remember the *Maine* . To Hell With Spain!" which resonated with a newspaper-reading public that had already developed sympathy with the Cubans who were fighting against a cruel Spanish colonial regime, especially after 1895, through increasingly one-sided press reporting (<cite data-cite="6095605/4YQQCH7A"></cite>). According to this historiographic narrative, after the *Maine* incident, American public sentiment rose in revenge against Spain, and as a result, relations between the two countries quickly soured, and tensions increased continuously. Joseph Wisan, in his study of New York journalism from 1895 to 1898, has also argued that the press played a significant role in preparing the ground for military intervention in Cuba and thus for war with Spain (<cite data-cite="6095605/8KWJRM5V"></cite>). Siding clearly with the efforts of the Cuban revolutionaries (although still undecided about the island's political future), parts of the New York yellow press framed the explosion of the *Maine* as a deliberate attack and called for war almost immediately (<cite data-cite="6095605/8KWJRM5V"></cite>, 34, <cite data-cite="6095605/ZX5QAL9Y"></cite>, 122-23). This was not the first time that the yellow press had done so. Given the biased and sensationalist reporting on the Cuban situation in previous years, the call for war fit neatly into an already established discourse in which Spain was the antagonist, the Cubans were oppressed people fighting against monarchical misrule, and the United States the potential hero that could step in either under the banner of "revenge" or "humanitarian aid," while securing its economic, political, and strategic interests in the region and globally. The *Journal* and other papers that engaged in sensationalist reporting saw the sinking of the *Maine* as yet another indication of the inevitability of a regime change in Cuba and increased publication numbers, page numbers, and expenses for generating news. Wisan explains: "During the week beginning February 17, the *Journal* devoted an average daily space of 8½ pages to the *Maine* – news, editorials, and pictures. It sent the yachts *Buccaneer* and *Anita* and the tug *Echo* to Havana and massed at the Cuban capital its group of special correspondents [...]. It offered a reward of fifty thousand dollars" (<cite data-cite="6095605/8KWJRM5V"></cite>, 390) for finding the perpetrator of the explosion, thereby denying that the incident could have been accidental. The yellow press repeatedly proved that it cared little for truthful accounts of reality. As if the investigation on the *Maine*'s wreck did not matter, the *Journal* declared that a mine had caused the explosion on the day divers were to inspect the site (<cite data-cite="6095605/ZX5QAL9Y"></cite>, 124).
 
 
