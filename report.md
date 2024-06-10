@@ -125,72 +125,62 @@ Total number of audios: 8
 > The following tags are missing or invalid
 
 #### Missing Tags:
-- copyright
 - cover
+- copyright
+>[!CAUTION]
+> **copyright** tag is missing. Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
+
+
+**Add ONE of the following codeblocks depending on which licence you want to use:**
+
+### CC-BY license:
+
+```
+[![cc-by](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
+```
+
+### CC-BY-NC-ND license:
+
+```
+[![cc-by-nc-nd](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+```
+
 
 
 ### Check URLs
 
 
-> [!CAUTION]
-> **Invalid URLs are present, please review the referenced URLs list.**
+**Impossible to verify (non-404 error code - 3):**
 
-**Invalid URLs (404 - 15):**
-
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/corpus.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://github.com/jdh-observer/aADj3Ljjqti2/blob/main/script/Full%20Corpus.xlsx'
-
-> [!WARNING]
-> **Invalid URL (404):** https://github.com/jdh-observer/aADj3Ljjqti2/blob/main/script/Full%20Corpus.xlsx"
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Figure%202.csv"
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Finland.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Germany.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Mexico.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Netherlands.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Spain.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/UK.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/USA.csv",
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/mpriewe/repo_article_maine/main/script/Figure%203.csv"
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/mpriewe/repo_article_maine/main/script/Figure%204.csv"
-
-> [!WARNING]
-> **Invalid URL (404):** https://raw.githubusercontent.com/mpriewe/repo_article_maine/main/script/Figure%205.csv"
-
-> [!WARNING]
-> **Invalid URL (404):** https://resolver.kb.nl/resolve?urn=ddd:010177239:mpeg21:pdf'
-
-**Impossible to verify (non-404 error code - 2):**
-
-Invalid URL (Other - 302): https://chroniclingamerica.loc.gov/data/batches/in_bradlaugh_ver02/data/sn82015679/0041566574A/1898021801/0483.pdf'
-Invalid URL (Other - 302): https://hndm.iib.unam.mx/consulta/resultados/visualizar/558a33207d1ed64f16908db9?resultado=14&tipo=pagina&intPagina=1&palabras=Maine#bajar'
+Invalid URL (Other - 301): https://orcid.org/sites/default/files/images/orcid_16x16.png
+Invalid URL (Other - 302): https://chroniclingamerica.loc.gov/data/batches/in_bradlaugh_ver02/data/sn82015679/0041566574A/1898021801/0483.pdf
+Invalid URL (Other - 302): https://hndm.iib.unam.mx/consulta/resultados/visualizar/558a33207d1ed64f16908db9?resultado=14&tipo=pagina&intPagina=1&palabras=Maine#bajar
 
 > [!TIP]
 > Even if some of the urls listed above don't seem to be broken, try to replace them with the valid ones as they might become unavailable soon.
 
+
+**Valid URLs (200 - 17):**
+
+2. https://orcid.org/0000-0002-8420-2958
+3. https://orcid.org/0000-0003-2908-0457
+4. https://orcid.org/0000-0002-0956-2873
+5. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/corpus.csv
+6. https://github.com/jdh-observer/aADj3Ljjqti2/blob/main/script/Full%20Corpus.xlsx
+7. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Figure%202.csv
+8. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Finland.csv
+9. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Germany.csv
+10. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Mexico.csv
+11. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Netherlands.csv
+12. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/Spain.csv
+13. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/UK.csv
+14. https://raw.githubusercontent.com/jdh-observer/aADj3Ljjqti2/main/script/USA.csv
+15. https://raw.githubusercontent.com/mpriewe/repo_article_maine/main/script/Figure%203.csv
+16. https://raw.githubusercontent.com/mpriewe/repo_article_maine/main/script/Figure%204.csv
+17. https://raw.githubusercontent.com/mpriewe/repo_article_maine/main/script/Figure%205.csv
+19. https://resolver.kb.nl/resolve?urn=ddd:010177239:mpeg21:pdf
 
 ## Kernel Checks: 
 
