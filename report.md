@@ -99,15 +99,18 @@ Total number of audios: 8
 - Cell 19: Tags: ['hermeneutics']
 - Cell 20: Tags: ['hermeneutics']
 - Cell 21: Tags: ['hermeneutics']
-- Cell 22: Tags: ['hermeneutics', 'table-1']
+- Cell 22: Tags: ['hermeneutics', 'table-1', 'anchor-table-1']
+  - Invalid tag: anchor-table-1
 - Cell 23: Tags: ['hermeneutics']
-- Cell 24: Tags: ['hermeneutics', 'figure-1']
+- Cell 24: Tags: ['hermeneutics', 'figure-1', 'anchor-figure-1']
+  - Invalid tag: anchor-figure-1
 - Cell 25: Tags: ['hermeneutics']
 - Cell 26: Tags: ['hermeneutics']
 - Cell 27: Tags: ['hermeneutics', 'figure-2']
 - Cell 28: Tags: ['hermeneutics']
 - Cell 29: Tags: ['hermeneutics']
-- Cell 30: Tags: ['hermeneutics', 'table-2']
+- Cell 30: Tags: ['hermeneutics', 'table-2', 'anchor-table-2']
+  - Invalid tag: anchor-table-2
 - Cell 31: Tags: ['hermeneutics', 'table-3']
 - Cell 32: Tags: ['hermeneutics', 'table-4']
 - Cell 33: Tags: ['hermeneutics', 'table-5']
@@ -115,9 +118,12 @@ Total number of audios: 8
 - Cell 35: Tags: ['hermeneutics', 'table-7']
 - Cell 36: Tags: ['hermeneutics', 'table-8']
 - Cell 37: Tags: ['hermeneutics']
-- Cell 41: Tags: ['figure-3']
-- Cell 44: Tags: ['figure-4']
-- Cell 48: Tags: ['figure-5']
+- Cell 41: Tags: ['figure-3', 'anchor-figure-3']
+  - Invalid tag: anchor-figure-3
+- Cell 44: Tags: ['figure-4', 'anchor-figure-4']
+  - Invalid tag: anchor-figure-4
+- Cell 48: Tags: ['figure-5', 'anchor-figure-5']
+  - Invalid tag: anchor-figure-5
 - Cell 71: Tags: ['figure-6']
 - Cell 87: Tags: ['figure-7']
 - Cell 95: Tags: ['figure-8']
@@ -131,7 +137,7 @@ Total number of audios: 8
 > **copyright** tag is missing. Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
 
-**Add ONE of the following codeblocks depending on which licence you want to use:**
+**Add ONE of the following codeblocks depending on which licence you want to use and be sure the cell is tagged as copyright.**
 
 ### CC-BY license:
 
@@ -147,6 +153,14 @@ Total number of audios: 8
 ©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ```
 
+
+#### Invalid Tags:
+- anchor-table-1
+- anchor-figure-1
+- anchor-table-2
+- anchor-figure-3
+- anchor-figure-4
+- anchor-figure-5
 
 
 ### Check URLs
