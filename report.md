@@ -127,12 +127,13 @@ Total number of audios: 8
 - Cell 71: Tags: ['figure-6']
 - Cell 87: Tags: ['figure-7']
 - Cell 95: Tags: ['figure-8']
+- Cell 110: Tags: ['hidden']
 > [!WARNING]
 > The following tags are missing or invalid
 
 #### Missing Tags:
-- cover
 - copyright
+- cover
 >[!CAUTION]
 > **copyright** tag is missing. Make sure to fill this template document [license_to_publish_JDH.dotx](https://github.com/C2DH/journal-of-digital-history-ipynb-preflight-action/blob/master/license_to_publish_JDH.dotx) and send it to jdh.admin@uni.lu
 
