@@ -47,7 +47,7 @@ In this paper, we investigate the first week of international newspaper coverage
 <!-- #endregion -->
 
 <!-- #region tags=["keywords"] -->
-Keywords: digital history, transnational journalism studies, opinion-making in newspapers, Spanish American War.
+digital history, transnational journalism studies, opinion-making in newspapers, Spanish American War.
 <!-- #endregion -->
 
 ## Introduction
