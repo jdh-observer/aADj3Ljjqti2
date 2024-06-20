@@ -17,6 +17,11 @@ jupyter:
 # "Public opinion should be suspended until further report": A Data-Assisted Analysis of International Newspaper Coverage of the Explosion of the USS *Maine* (1898)
 <!-- #endregion -->
 
+```python tags=["cover"]
+from IPython.display import Image, display
+display(Image("./media/cover.jpg"))
+```
+
 <!-- #region tags=["contributor"] -->
 ### Adán Lerma-Mayer [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-8420-2958)
 Universidad Nacional Autónoma de México
