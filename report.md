@@ -3,40 +3,40 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Cell Counts   
-**all cells: 112**  
+**all cells: 111**  
 code_empty: 0   
-markdown: 95   
+markdown: 94   
 code: 17   
 
 ## Action Outputs
 
 ### Size
-**total cells: 112**
+**total cells: 111**
 
 ### Citations Found with problem:
 
 
 ### Check Output Sizes and Rules
-- Table found in output of cell 24
+- Table found in output of cell 23
 > First words of input cell: import pandas as pd df_table1
-- Output cell 26 size: 3597.14 KB
+- Output cell 25 size: 3597.14 KB
 > First words of input cell: import pandas as pd import
-- Table found in output of cell 32
+- Table found in output of cell 31
 > First words of input cell: import pandas as pd df_table2
-- Table found in output of cell 33
+- Table found in output of cell 32
 > First words of input cell: import pandas as pd df_table3
-- Table found in output of cell 34
+- Table found in output of cell 33
 > First words of input cell: import pandas as pd df_table4
-- Table found in output of cell 35
+- Table found in output of cell 34
 > First words of input cell: import pandas as pd df_table5
-- Table found in output of cell 36
+- Table found in output of cell 35
 > First words of input cell: import pandas as pd df_table6
-- Table found in output of cell 37
+- Table found in output of cell 36
 > First words of input cell: import pandas as pd df_table7
-- Table found in output of cell 38
+- Table found in output of cell 37
 > First words of input cell: import pandas as pd df_table8
 
-Total output size: 4823.83 KB
+Total output size: 4810.62 KB
 Total number of images: 1
 Total number of tables: 8
 Total number of audios: 8
@@ -58,32 +58,32 @@ Total number of audios: 8
 
 | Tag | Cell | Remark |
 | --- | --- | --- |
-| text/plain | 6 | Should be replaced |
-| text/html | 24 | Correct tagging (table) |
-| image/png | 29 | Correct tagging |
+| text/plain | 2 | Should be replaced |
+| text/html | 23 | Correct tagging (table) |
+| image/png | 28 | Correct tagging |
+| text/html | 31 | Correct tagging (table) |
 | text/html | 32 | Correct tagging (table) |
 | text/html | 33 | Correct tagging (table) |
 | text/html | 34 | Correct tagging (table) |
 | text/html | 35 | Correct tagging (table) |
 | text/html | 36 | Correct tagging (table) |
 | text/html | 37 | Correct tagging (table) |
-| text/html | 38 | Correct tagging (table) |
 
 
 ### Check HTML
-- Cell 64 - Encountered a start tag: todo
-- Cell 64 - Encountered a start tag: el
-- Cell 65 - Encountered a start tag: everything
-- Cell 65 - Encountered a start tag: the
+- Cell 63 - Encountered a start tag: todo
+- Cell 63 - Encountered a start tag: el
+- Cell 64 - Encountered a start tag: everything
+- Cell 64 - Encountered a start tag: the
 
 
 ### Check JavaScript
 **WARNING: 4 output cells contain JavaScript code.**
 
--  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=26)
--  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=43)
--  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=46)
--  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=50)
+-  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=25)
+-  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=42)
+-  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=45)
+-  [Check here ](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZqZGgtb2JzZXJ2ZXIlMkZhQURqM0xqanF0aTIlMkZtYWluJTJGYXJ0aWNsZU1haW5lLmlweW5i?idx=49)
 ### Check JavaScript (plotly)
 **require.undef("plotly")** is present
 
@@ -92,48 +92,43 @@ Total number of audios: 8
 
 ### Check Tags
 - Cell 1: Tags: ['title']
-- Cell 2: Tags: ['contributor']
+- Cell 2: Tags: ['cover']
 - Cell 3: Tags: ['contributor']
 - Cell 4: Tags: ['contributor']
-- Cell 5: Tags: ['copyright']
-- Cell 6: Tags: ['cover']
-- Cell 7: Tags: ['title']
-- Cell 8: Tags: ['abstract']
-- Cell 9: Tags: ['keywords']
-- Cell 19: Tags: ['hermeneutics']
-- Cell 20: Tags: ['hermeneutics']
+- Cell 5: Tags: ['contributor']
+- Cell 6: Tags: ['copyright']
+- Cell 7: Tags: ['abstract']
+- Cell 8: Tags: ['keywords']
+- Cell 18: Tags: ['hermeneutics']
 - Cell 21: Tags: ['hermeneutics']
 - Cell 22: Tags: ['hermeneutics']
-- Cell 23: Tags: ['hermeneutics']
-- Cell 24: Tags: ['hermeneutics', 'table-1', 'anchor-table-1']
+- Cell 23: Tags: ['hermeneutics', 'table-1', 'anchor-table-1']
   - Invalid tag: anchor-table-1
-- Cell 25: Tags: ['hermeneutics']
-- Cell 26: Tags: ['hermeneutics', 'figure-1', 'anchor-figure-1']
+- Cell 24: Tags: ['hermeneutics']
+- Cell 25: Tags: ['hermeneutics', 'figure-1', 'anchor-figure-1']
   - Invalid tag: anchor-figure-1
 - Cell 27: Tags: ['hermeneutics']
-- Cell 28: Tags: ['hermeneutics']
-- Cell 29: Tags: ['hermeneutics', 'figure-2']
+- Cell 28: Tags: ['hermeneutics', 'figure-2']
 - Cell 30: Tags: ['hermeneutics']
-- Cell 31: Tags: ['hermeneutics']
-- Cell 32: Tags: ['hermeneutics', 'table-2', 'anchor-table-2']
+- Cell 31: Tags: ['hermeneutics', 'table-2', 'anchor-table-2']
   - Invalid tag: anchor-table-2
-- Cell 33: Tags: ['hermeneutics', 'table-3']
-- Cell 34: Tags: ['hermeneutics', 'table-4']
-- Cell 35: Tags: ['hermeneutics', 'table-5']
-- Cell 36: Tags: ['hermeneutics', 'table-6']
-- Cell 37: Tags: ['hermeneutics', 'table-7']
-- Cell 38: Tags: ['hermeneutics', 'table-8']
-- Cell 39: Tags: ['hermeneutics']
-- Cell 43: Tags: ['figure-3', 'anchor-figure-3']
+- Cell 32: Tags: ['hermeneutics', 'table-3']
+- Cell 33: Tags: ['hermeneutics', 'table-4']
+- Cell 34: Tags: ['hermeneutics', 'table-5']
+- Cell 35: Tags: ['hermeneutics', 'table-6']
+- Cell 36: Tags: ['hermeneutics', 'table-7']
+- Cell 37: Tags: ['hermeneutics', 'table-8']
+- Cell 38: Tags: ['hermeneutics']
+- Cell 42: Tags: ['figure-3', 'anchor-figure-3']
   - Invalid tag: anchor-figure-3
-- Cell 46: Tags: ['figure-4', 'anchor-figure-4']
+- Cell 45: Tags: ['figure-4', 'anchor-figure-4']
   - Invalid tag: anchor-figure-4
-- Cell 50: Tags: ['figure-5', 'anchor-figure-5']
+- Cell 49: Tags: ['figure-5', 'anchor-figure-5']
   - Invalid tag: anchor-figure-5
-- Cell 73: Tags: ['figure-6']
-- Cell 89: Tags: ['figure-7']
-- Cell 97: Tags: ['figure-8']
-- Cell 112: Tags: ['hidden']
+- Cell 72: Tags: ['figure-6']
+- Cell 88: Tags: ['figure-7']
+- Cell 96: Tags: ['figure-8']
+- Cell 111: Tags: ['hidden']
 > [!WARNING]
 > The following tags are missing or invalid
 
@@ -185,7 +180,7 @@ Invalid URL (Other - 302): https://hndm.iib.unam.mx/consulta/resultados/visualiz
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.11.5**, when **python-3.7** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.7.10**, when **python-3.7** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
