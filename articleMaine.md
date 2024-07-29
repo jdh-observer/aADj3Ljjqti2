@@ -611,7 +611,7 @@ Finally, the present study has offered insights into the self-referential nature
 ### Acknowledgments
 
 
-The authors would like to thank Seyda Akkaya, Ryan Cordell, David Cros, Laura Martínez Domínguez, Jana Keck, Otto Latva, Laura Angélica López Méndez, Fabiola Delfín Martínez, Jamie Parker, Miriam Peña Pimentel, Rocío Castellanos Rueda, Iván Vladimir Meza Ruiz, Isabel Galina Russell, David Smith, and Ximena Gutiérrez Vásques for their help in preparing this article.
+The authors would like to thank Seyda Akkaya, Ryan Cordell, David Cross, Laura Martínez Domínguez, Jana Keck, Otto Latva, Laura Angélica López Méndez, Fabiola Delfín Martínez, Jamie Parker, Miriam Peña Pimentel, Rocío Castellanos Rueda, Iván Vladimir Meza Ruiz, Isabel Galina Russell, David Smith, and Ximena Gutiérrez Vásques for their help in preparing this article.
 
 <!-- #region tags=["hidden"] -->
 <div class="cite2c-biblio"></div>
